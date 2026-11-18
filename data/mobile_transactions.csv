@@ -1,0 +1,701 @@
+date,hour,type,district,amount_bdt,fee_bdt
+2025-02-21,12,Send Money,Rangpur,2076.65,10.38
+2025-04-06,15,Cash Out,Khulna,8198.86,151.68
+2025-03-10,12,Payment,Rajshahi,825.75,0.0
+2025-04-30,8,Send Money,Chattogram,3054.87,15.27
+2025-01-06,9,Send Money,Barishal,50.0,0.25
+2025-02-08,20,Cash In,Khulna,5799.93,0.0
+2025-03-10,7,Send Money,Sylhet,50.0,0.25
+2025-01-31,1,Send Money,Rangpur,2693.51,13.47
+2025-03-14,20,Cash In,Rajshahi,50.0,0.0
+2025-01-10,19,Payment,Chattogram,1419.94,0.0
+2025-01-24,16,Cash Out,Dhaka,7966.77,147.39
+2025-01-25,12,Cash Out,Rangpur,7053.95,130.5
+2025-03-03,21,Payment,Sylhet,2947.55,0.0
+2025-01-04,11,Send Money,Barishal,445.49,2.23
+2025-01-22,1,Send Money,Dhaka,5246.82,26.23
+2025-01-30,12,Salary,Chattogram,30716.7,0.0
+2025-04-13,13,Payment,Rangpur,50.0,0.0
+2025-03-29,13,Cash Out,Dhaka,2139.72,39.58
+2025-02-27,19,Salary,Barishal,17524.86,0.0
+2025-01-14,5,Payment,Khulna,1469.16,0.0
+2025-04-23,19,Cash In,Dhaka,5192.15,0.0
+2025-03-19,13,Send Money,Chattogram,50.0,0.25
+2025-03-28,17,Payment,Dhaka,2215.57,0.0
+2025-02-05,11,Cash Out,Rajshahi,4210.56,77.9
+2025-02-04,9,Cash Out,Sylhet,1282.28,23.72
+2025-01-28,10,Payment,Dhaka,2646.63,0.0
+2025-03-25,9,Send Money,Dhaka,1767.66,8.84
+2025-02-28,12,Salary,Sylhet,27860.35,0.0
+2025-04-18,14,Cash In,Dhaka,6309.83,0.0
+2025-02-22,19,Send Money,Khulna,1811.83,9.06
+2025-04-27,8,Cash Out,Barishal,9681.09,179.1
+2025-02-23,12,Send Money,Khulna,3856.75,19.28
+2025-03-16,13,Send Money,Dhaka,1474.81,7.37
+2025-01-15,18,Cash In,Rangpur,50.0,0.0
+2025-01-14,17,Cash Out,Sylhet,3087.37,57.12
+2025-03-09,15,Send Money,Khulna,3512.09,17.56
+2025-03-21,16,Payment,Dhaka,1206.25,0.0
+2025-04-19,12,Send Money,Rajshahi,5594.08,27.97
+2025-04-08,18,Cash In,Chattogram,5426.68,0.0
+2025-01-02,19,Send Money,Dhaka,2744.76,13.72
+2025-01-13,14,Send Money,Dhaka,3123.67,15.62
+2025-01-10,7,Send Money,Dhaka,788.13,3.94
+2025-02-28,11,Cash Out,Dhaka,4711.99,87.17
+2025-03-12,9,Cash Out,Dhaka,2646.59,48.96
+2025-01-26,8,Cash In,Rajshahi,50.0,0.0
+2025-02-08,9,Payment,Rajshahi,50.0,0.0
+2025-02-24,18,Cash Out,Rajshahi,8006.41,148.12
+2025-01-31,10,Send Money,Barishal,1584.67,7.92
+2025-01-28,11,Send Money,Dhaka,2168.6,10.84
+2025-04-29,11,Cash In,Chattogram,50.0,0.0
+2025-01-28,8,Cash Out,Dhaka,2924.74,54.11
+2025-02-06,14,Payment,Chattogram,2441.05,0.0
+2025-01-14,11,Send Money,Dhaka,2565.69,12.83
+2025-04-21,20,Send Money,Dhaka,1448.26,7.24
+2025-03-18,15,Salary,Dhaka,30222.69,0.0
+2025-03-16,22,Payment,Chattogram,1420.32,0.0
+2025-02-13,19,Cash Out,Sylhet,3837.57,71.0
+2025-01-04,13,Cash Out,Dhaka,9564.22,176.94
+2025-01-11,1,Send Money,Sylhet,50.0,0.25
+2025-02-01,8,Send Money,Dhaka,3390.21,16.95
+2025-02-20,7,Send Money,Dhaka,367.04,1.84
+2025-01-10,17,Salary,Chattogram,16198.14,0.0
+2025-01-22,7,Cash Out,Dhaka,2558.14,47.33
+2025-03-06,15,Send Money,Chattogram,2624.05,13.12
+2025-04-01,10,Remittance,Rajshahi,15217.77,0.0
+2025-04-19,12,Send Money,Barishal,2940.38,14.7
+2025-03-15,17,Send Money,Dhaka,2768.23,13.84
+2025-01-07,9,Payment,Barishal,3188.96,0.0
+2025-03-19,8,Cash In,Khulna,10034.48,0.0
+2025-01-04,9,Send Money,Khulna,3676.54,18.38
+2025-01-30,21,Salary,Dhaka,25544.78,0.0
+2025-01-04,14,Send Money,Rangpur,1709.38,8.55
+2025-01-20,9,Send Money,Dhaka,395.64,1.98
+2025-02-02,7,Send Money,Khulna,3463.49,17.32
+2025-03-21,5,Send Money,Khulna,2455.77,12.28
+2025-01-20,10,Remittance,Rangpur,20515.95,0.0
+2025-03-14,15,Cash Out,Rajshahi,50.0,0.92
+2025-04-27,12,Cash In,Mymensingh,13222.28,0.0
+2025-02-11,18,Send Money,Dhaka,85.96,0.43
+2025-04-04,23,Cash Out,Rajshahi,5318.64,98.39
+2025-03-17,14,Send Money,Khulna,4190.52,20.95
+2025-04-23,10,Cash In,Khulna,125.42,0.0
+2025-02-08,18,Cash In,Rajshahi,2803.86,0.0
+2025-03-11,6,Cash Out,Khulna,50.0,0.92
+2025-02-09,17,Cash Out,Dhaka,50.0,0.92
+2025-04-09,19,Cash Out,Rajshahi,50.0,0.92
+2025-01-06,18,Remittance,Dhaka,15211.0,0.0
+2025-03-27,6,Send Money,Chattogram,2927.76,14.64
+2025-01-06,14,Send Money,Chattogram,1819.2,9.1
+2025-02-05,18,Cash Out,Dhaka,10027.43,185.51
+2025-03-28,11,Send Money,Khulna,4913.92,24.57
+2025-03-20,19,Salary,Rajshahi,20943.57,0.0
+2025-02-19,7,Remittance,Dhaka,12927.55,0.0
+2025-02-04,13,Payment,Dhaka,1165.91,0.0
+2025-03-01,14,Payment,Dhaka,950.11,0.0
+2025-02-25,18,Payment,Rajshahi,3077.41,0.0
+2025-01-28,11,Salary,Dhaka,22427.97,0.0
+2025-04-09,9,Cash In,Dhaka,3525.82,0.0
+2025-02-17,17,Send Money,Chattogram,1985.79,9.93
+2025-01-27,7,Payment,Chattogram,2158.83,0.0
+2025-01-30,10,Send Money,Dhaka,1676.04,8.38
+2025-01-21,12,Cash Out,Mymensingh,6401.22,118.42
+2025-04-17,18,Salary,Dhaka,20780.55,0.0
+2025-04-13,11,Cash In,Rajshahi,8967.05,0.0
+2025-01-24,14,Remittance,Dhaka,22675.89,0.0
+2025-02-25,16,Send Money,Rajshahi,50.0,0.25
+2025-03-10,16,Cash Out,Chattogram,4587.83,84.87
+2025-01-21,21,Send Money,Dhaka,3691.29,18.46
+2025-01-02,12,Cash In,Chattogram,3155.32,0.0
+2025-02-08,14,Send Money,Rajshahi,3871.17,19.36
+2025-04-16,1,Send Money,Rajshahi,3010.5,15.05
+2025-02-03,8,Cash Out,Rajshahi,7474.44,138.28
+2025-03-26,9,Send Money,Dhaka,2288.79,11.44
+2025-04-18,8,Cash In,Dhaka,5585.71,0.0
+2025-01-23,13,Payment,Dhaka,2135.16,0.0
+2025-02-26,8,Send Money,Dhaka,50.0,0.25
+2025-02-21,14,Cash Out,Rajshahi,1703.01,31.51
+2025-04-21,18,Send Money,Chattogram,558.39,2.79
+2025-03-12,6,Payment,Dhaka,3535.84,0.0
+2025-02-26,9,Send Money,Dhaka,2952.86,14.76
+2025-02-08,13,Send Money,Rajshahi,3079.59,15.4
+2025-04-23,4,Send Money,Dhaka,2718.84,13.59
+2025-01-16,7,Payment,Khulna,877.15,0.0
+2025-04-20,14,Payment,Rajshahi,603.3,0.0
+2025-03-15,11,Cash Out,Rajshahi,8457.98,156.47
+2025-03-10,20,Payment,Dhaka,1052.78,0.0
+2025-03-04,14,Cash Out,Chattogram,11254.23,208.2
+2025-04-05,17,Send Money,Mymensingh,2761.32,13.81
+2025-01-24,10,Cash Out,Dhaka,5565.62,102.96
+2025-02-04,11,Cash Out,Rajshahi,4377.39,80.98
+2025-01-30,19,Cash In,Chattogram,4375.48,0.0
+2025-01-14,15,Send Money,Rajshahi,2469.98,12.35
+2025-01-04,20,Send Money,Chattogram,5164.01,25.82
+2025-03-14,9,Payment,Dhaka,4324.68,0.0
+2025-03-16,7,Cash In,Khulna,903.2,0.0
+2025-01-07,16,Cash In,Dhaka,5438.98,0.0
+2025-03-16,7,Remittance,Rangpur,19524.44,0.0
+2025-02-26,6,Send Money,Barishal,776.31,3.88
+2025-03-03,11,Salary,Chattogram,17218.21,0.0
+2025-03-16,16,Payment,Khulna,955.8,0.0
+2025-03-10,10,Send Money,Khulna,50.0,0.25
+2025-04-03,17,Cash Out,Mymensingh,7709.36,142.62
+2025-04-26,12,Send Money,Dhaka,2328.76,11.64
+2025-04-18,9,Salary,Dhaka,20482.23,0.0
+2025-02-11,13,Remittance,Chattogram,15128.44,0.0
+2025-01-25,15,Salary,Barishal,22548.99,0.0
+2025-02-02,7,Remittance,Sylhet,30826.43,0.0
+2025-04-14,14,Send Money,Chattogram,2742.47,13.71
+2025-02-12,7,Salary,Dhaka,26078.55,0.0
+2025-03-01,21,Send Money,Rajshahi,1475.92,7.38
+2025-01-13,13,Send Money,Chattogram,3053.87,15.27
+2025-03-16,8,Cash Out,Dhaka,4036.19,74.67
+2025-02-22,4,Cash Out,Rajshahi,4666.63,86.33
+2025-02-25,8,Send Money,Chattogram,785.35,3.93
+2025-03-23,10,Payment,Dhaka,528.88,0.0
+2025-04-12,14,Payment,Dhaka,2061.96,0.0
+2025-03-07,16,Send Money,Khulna,3767.34,18.84
+2025-02-05,17,Payment,Dhaka,2068.31,0.0
+2025-02-08,12,Cash Out,Chattogram,2682.63,49.63
+2025-01-01,15,Remittance,Mymensingh,16806.01,0.0
+2025-04-24,14,Send Money,Chattogram,50.0,0.25
+2025-04-10,9,Salary,Dhaka,26755.57,0.0
+2025-01-20,8,Cash Out,Khulna,5105.05,94.44
+2025-03-21,11,Payment,Rangpur,1842.76,0.0
+2025-03-10,16,Payment,Rangpur,2919.63,0.0
+2025-03-27,7,Cash Out,Rajshahi,3648.76,67.5
+2025-01-16,15,Send Money,Rangpur,4160.25,20.8
+2025-01-15,2,Cash In,Sylhet,3240.99,0.0
+2025-03-24,8,Send Money,Rajshahi,3414.05,17.07
+2025-01-25,16,Cash Out,Chattogram,3715.31,68.73
+2025-03-06,18,Payment,Dhaka,1888.18,0.0
+2025-03-17,18,Send Money,Sylhet,5055.13,25.28
+2025-04-25,16,Send Money,Rajshahi,1260.47,6.3
+2025-03-31,9,Salary,Mymensingh,17446.96,0.0
+2025-04-20,22,Salary,Dhaka,19158.42,0.0
+2025-03-21,15,Payment,Rangpur,1888.47,0.0
+2025-03-20,20,Cash In,Dhaka,13497.88,0.0
+2025-03-13,20,Remittance,Mymensingh,10602.67,0.0
+2025-04-04,8,Send Money,Mymensingh,50.0,0.25
+2025-03-20,21,Payment,Dhaka,742.95,0.0
+2025-04-09,6,Cash Out,Dhaka,50.0,0.92
+2025-01-18,15,Remittance,Mymensingh,10755.36,0.0
+2025-01-07,9,Cash Out,Mymensingh,5367.65,99.3
+2025-02-24,6,Send Money,Rajshahi,718.35,3.59
+2025-04-07,14,Cash In,Dhaka,2502.65,0.0
+2025-02-09,8,Payment,Dhaka,50.0,0.0
+2025-03-27,18,Remittance,Dhaka,15970.77,0.0
+2025-03-30,12,Payment,Mymensingh,633.95,0.0
+2025-04-04,9,Salary,Barishal,27712.31,0.0
+2025-03-04,1,Cash Out,Chattogram,9318.48,172.39
+2025-04-18,16,Payment,Sylhet,490.62,0.0
+2025-03-28,15,Send Money,Rangpur,1787.89,8.94
+2025-03-11,18,Payment,Dhaka,1603.05,0.0
+2025-03-25,11,Salary,Rangpur,25753.56,0.0
+2025-03-11,20,Remittance,Dhaka,2990.1,0.0
+2025-04-19,2,Salary,Dhaka,20769.08,0.0
+2025-03-18,20,Cash Out,Dhaka,12429.24,229.94
+2025-04-13,18,Cash In,Dhaka,4426.29,0.0
+2025-04-13,6,Send Money,Khulna,2863.9,14.32
+2025-01-07,22,Cash In,Dhaka,4719.63,0.0
+2025-02-05,6,Cash Out,Khulna,798.46,14.77
+2025-03-22,17,Send Money,Dhaka,4183.08,20.92
+2025-03-21,9,Payment,Sylhet,1869.43,0.0
+2025-02-14,16,Cash Out,Dhaka,5970.95,110.46
+2025-04-10,19,Cash Out,Dhaka,8119.24,150.21
+2025-01-13,7,Cash In,Dhaka,7254.39,0.0
+2025-02-16,10,Send Money,Rajshahi,50.0,0.25
+2025-02-27,20,Payment,Barishal,2129.51,0.0
+2025-01-17,12,Cash Out,Sylhet,3137.54,58.04
+2025-04-12,7,Payment,Sylhet,1743.22,0.0
+2025-01-06,6,Cash Out,Rajshahi,2643.41,48.9
+2025-04-06,7,Send Money,Khulna,915.82,4.58
+2025-04-19,6,Cash Out,Chattogram,8997.47,166.45
+2025-01-13,10,Cash In,Dhaka,4719.73,0.0
+2025-02-22,18,Send Money,Rangpur,1973.84,9.87
+2025-01-25,12,Send Money,Chattogram,1965.74,9.83
+2025-04-12,6,Send Money,Rajshahi,2632.89,13.16
+2025-03-25,10,Cash Out,Dhaka,5325.5,98.52
+2025-02-07,12,Cash In,Chattogram,50.0,0.0
+2025-04-27,12,Send Money,Dhaka,919.96,4.6
+2025-01-24,15,Cash In,Chattogram,4011.47,0.0
+2025-01-10,16,Payment,Sylhet,2462.43,0.0
+2025-02-19,17,Send Money,Chattogram,4956.98,24.78
+2025-01-11,13,Cash Out,Rajshahi,1859.09,34.39
+2025-03-11,2,Send Money,Dhaka,6000.71,30.0
+2025-03-25,18,Remittance,Chattogram,15589.0,0.0
+2025-04-16,18,Payment,Chattogram,2163.6,0.0
+2025-03-15,17,Send Money,Khulna,1553.1,7.77
+2025-01-05,12,Send Money,Dhaka,1427.53,7.14
+2025-04-08,19,Cash In,Sylhet,9424.02,0.0
+2025-03-02,6,Remittance,Rangpur,13452.96,0.0
+2025-01-24,17,Cash Out,Barishal,5079.99,93.98
+2025-03-18,14,Cash Out,Dhaka,9888.09,182.93
+2025-03-01,17,Remittance,Khulna,27106.85,0.0
+2025-02-14,5,Cash In,Chattogram,50.0,0.0
+2025-04-07,21,Send Money,Khulna,2198.85,10.99
+2025-03-17,3,Send Money,Dhaka,2521.6,12.61
+2025-02-15,8,Cash Out,Sylhet,12412.0,229.62
+2025-04-09,13,Cash Out,Chattogram,14899.8,275.65
+2025-02-17,14,Send Money,Mymensingh,2458.28,12.29
+2025-04-21,8,Send Money,Dhaka,3225.46,16.13
+2025-01-04,9,Send Money,Chattogram,4116.71,20.58
+2025-02-22,20,Cash Out,Khulna,9918.19,183.49
+2025-04-06,10,Remittance,Rangpur,12887.0,0.0
+2025-03-07,12,Payment,Sylhet,2639.95,0.0
+2025-02-23,7,Send Money,Dhaka,1304.79,6.52
+2025-03-02,14,Send Money,Dhaka,50.0,0.25
+2025-02-15,17,Cash Out,Sylhet,304.67,5.64
+2025-04-14,17,Cash In,Chattogram,5597.96,0.0
+2025-03-20,8,Cash In,Dhaka,7425.27,0.0
+2025-04-26,10,Cash Out,Mymensingh,50.0,0.92
+2025-04-13,16,Cash In,Rangpur,50.0,0.0
+2025-04-28,22,Cash In,Chattogram,4829.82,0.0
+2025-04-14,18,Cash Out,Khulna,50.0,0.92
+2025-02-24,8,Remittance,Mymensingh,19165.52,0.0
+2025-02-11,5,Cash Out,Dhaka,9550.71,176.69
+2025-02-01,10,Send Money,Rangpur,50.0,0.25
+2025-03-14,13,Payment,Rangpur,2558.85,0.0
+2025-02-17,9,Send Money,Sylhet,2260.05,11.3
+2025-02-16,18,Payment,Rajshahi,3346.43,0.0
+2025-03-27,9,Salary,Rajshahi,23409.04,0.0
+2025-04-11,7,Cash In,Khulna,4221.54,0.0
+2025-04-06,15,Cash Out,Rajshahi,6125.47,113.32
+2025-04-06,18,Send Money,Dhaka,4319.86,21.6
+2025-04-07,8,Cash In,Khulna,5615.96,0.0
+2025-03-21,10,Cash In,Rajshahi,5140.93,0.0
+2025-01-14,9,Cash In,Khulna,386.78,0.0
+2025-04-09,2,Payment,Rajshahi,2238.81,0.0
+2025-04-07,16,Payment,Chattogram,1696.52,0.0
+2025-03-03,5,Cash Out,Barishal,12718.02,235.28
+2025-02-08,15,Send Money,Sylhet,2621.03,13.11
+2025-03-10,15,Send Money,Dhaka,2489.89,12.45
+2025-04-07,13,Remittance,Sylhet,11071.08,0.0
+2025-01-20,4,Cash Out,Dhaka,8484.21,156.96
+2025-02-02,3,Payment,Dhaka,1422.46,0.0
+2025-03-26,13,Cash Out,Dhaka,3050.29,56.43
+2025-03-21,13,Cash Out,Dhaka,11842.27,219.08
+2025-02-04,1,Cash In,Khulna,10769.68,0.0
+2025-04-05,1,Send Money,Dhaka,1839.72,9.2
+2025-03-09,18,Cash Out,Dhaka,1843.43,34.1
+2025-02-10,10,Send Money,Sylhet,4696.37,23.48
+2025-01-01,17,Cash In,Chattogram,2384.22,0.0
+2025-04-13,8,Cash Out,Rangpur,16516.43,305.55
+2025-02-17,9,Cash Out,Dhaka,5238.98,96.92
+2025-03-02,20,Send Money,Rajshahi,4403.68,22.02
+2025-03-15,8,Payment,Chattogram,115.35,0.0
+2025-04-19,11,Cash Out,Rangpur,5630.04,104.16
+2025-03-17,13,Send Money,Rajshahi,4642.9,23.21
+2025-03-24,17,Send Money,Rajshahi,3463.43,17.32
+2025-03-09,10,Cash Out,Dhaka,3720.86,68.84
+2025-03-13,15,Payment,Sylhet,4635.54,0.0
+2025-01-31,8,Cash Out,Chattogram,8592.68,158.96
+2025-03-07,16,Cash In,Sylhet,4349.51,0.0
+2025-03-20,2,Cash In,Rangpur,3143.44,0.0
+2025-02-10,8,Cash In,Dhaka,4219.29,0.0
+2025-03-21,5,Salary,Dhaka,30054.38,0.0
+2025-03-22,6,Cash Out,Sylhet,2835.18,52.45
+2025-03-12,17,Payment,Mymensingh,1722.71,0.0
+2025-04-02,12,Cash Out,Rangpur,2651.25,49.05
+2025-02-15,18,Cash Out,Chattogram,10570.51,195.55
+2025-02-15,22,Send Money,Rangpur,2381.96,11.91
+2025-01-19,8,Salary,Dhaka,27119.38,0.0
+2025-03-26,18,Send Money,Dhaka,3702.58,18.51
+2025-03-08,22,Send Money,Rajshahi,1627.37,8.14
+2025-03-02,9,Cash Out,Khulna,8459.94,156.51
+2025-01-07,6,Remittance,Barishal,22189.4,0.0
+2025-03-13,12,Cash Out,Dhaka,1407.14,26.03
+2025-04-20,13,Cash Out,Chattogram,8472.92,156.75
+2025-01-07,16,Payment,Mymensingh,5977.87,0.0
+2025-02-12,14,Send Money,Dhaka,2141.52,10.71
+2025-02-24,9,Send Money,Chattogram,3835.95,19.18
+2025-02-03,7,Payment,Rajshahi,75.56,0.0
+2025-01-19,10,Payment,Mymensingh,2241.64,0.0
+2025-02-24,12,Cash In,Dhaka,3203.27,0.0
+2025-04-30,8,Cash Out,Sylhet,8724.43,161.4
+2025-01-13,9,Salary,Chattogram,21625.88,0.0
+2025-01-22,19,Send Money,Chattogram,547.92,2.74
+2025-04-17,11,Send Money,Dhaka,4673.45,23.37
+2025-04-18,7,Payment,Chattogram,1425.77,0.0
+2025-04-28,16,Send Money,Khulna,840.19,4.2
+2025-01-12,10,Send Money,Chattogram,2800.23,14.0
+2025-04-09,13,Send Money,Khulna,928.37,4.64
+2025-03-16,11,Cash Out,Rajshahi,7305.9,135.16
+2025-03-10,7,Cash Out,Rangpur,5549.17,102.66
+2025-04-12,17,Payment,Khulna,1239.04,0.0
+2025-04-23,14,Cash In,Chattogram,7249.06,0.0
+2025-04-10,22,Cash Out,Mymensingh,898.98,16.63
+2025-02-09,0,Send Money,Dhaka,4444.22,22.22
+2025-03-19,14,Payment,Dhaka,50.0,0.0
+2025-02-25,11,Send Money,Rangpur,5597.94,27.99
+2025-02-26,12,Cash Out,Dhaka,6489.69,120.06
+2025-01-21,17,Cash Out,Dhaka,4781.41,88.46
+2025-02-24,9,Cash Out,Chattogram,2971.72,54.98
+2025-02-20,11,Send Money,Chattogram,3674.93,18.37
+2025-01-03,7,Payment,Chattogram,1493.98,0.0
+2025-04-22,14,Payment,Rangpur,1471.77,0.0
+2025-02-22,12,Remittance,Dhaka,22885.42,0.0
+2025-03-21,4,Cash In,Dhaka,3697.21,0.0
+2025-01-13,8,Cash Out,Dhaka,4887.48,90.42
+2025-03-07,11,Payment,Mymensingh,2207.91,0.0
+2025-03-18,13,Cash Out,Chattogram,9910.2,183.34
+2025-03-06,6,Send Money,Chattogram,2408.34,12.04
+2025-03-02,15,Cash In,Barishal,5615.82,0.0
+2025-03-18,18,Remittance,Mymensingh,15919.91,0.0
+2025-04-11,10,Cash In,Khulna,7501.62,0.0
+2025-03-15,5,Salary,Barishal,30972.78,0.0
+2025-01-01,7,Cash In,Dhaka,2079.02,0.0
+2025-02-24,18,Send Money,Chattogram,2438.52,12.19
+2025-02-20,13,Send Money,Khulna,2595.54,12.98
+2025-03-03,7,Send Money,Dhaka,3754.6,18.77
+2025-03-26,7,Cash Out,Dhaka,11557.29,213.81
+2025-01-13,19,Payment,Dhaka,1666.83,0.0
+2025-04-08,16,Cash Out,Dhaka,6610.72,122.3
+2025-02-23,16,Cash Out,Rangpur,10141.24,187.61
+2025-03-04,7,Remittance,Barishal,6783.83,0.0
+2025-03-22,23,Send Money,Dhaka,1278.98,6.39
+2025-03-01,9,Payment,Chattogram,1139.67,0.0
+2025-01-27,10,Send Money,Sylhet,2666.12,13.33
+2025-02-20,8,Send Money,Rangpur,3097.66,15.49
+2025-02-03,21,Remittance,Khulna,11908.15,0.0
+2025-01-15,15,Payment,Sylhet,3813.43,0.0
+2025-04-07,14,Cash Out,Dhaka,3068.14,56.76
+2025-03-10,11,Send Money,Barishal,2307.6,11.54
+2025-01-17,17,Salary,Barishal,28517.49,0.0
+2025-02-03,12,Send Money,Chattogram,4083.13,20.42
+2025-01-24,12,Send Money,Dhaka,2648.64,13.24
+2025-03-02,7,Send Money,Dhaka,3358.95,16.79
+2025-04-09,18,Send Money,Rajshahi,4164.56,20.82
+2025-03-18,5,Salary,Rajshahi,21829.16,0.0
+2025-01-15,20,Send Money,Dhaka,3853.5,19.27
+2025-03-29,20,Cash In,Khulna,2106.14,0.0
+2025-02-06,13,Send Money,Mymensingh,2796.83,13.98
+2025-03-30,7,Cash Out,Dhaka,50.0,0.92
+2025-04-20,8,Payment,Dhaka,590.35,0.0
+2025-03-02,7,Cash Out,Dhaka,1353.16,25.03
+2025-02-19,17,Cash Out,Chattogram,10563.22,195.42
+2025-04-30,10,Send Money,Chattogram,1812.05,9.06
+2025-04-09,22,Cash Out,Rangpur,6888.31,127.43
+2025-04-01,10,Send Money,Dhaka,966.11,4.83
+2025-04-02,10,Send Money,Dhaka,2281.53,11.41
+2025-03-10,16,Cash In,Mymensingh,4137.44,0.0
+2025-01-03,19,Send Money,Dhaka,1085.02,5.43
+2025-03-12,13,Send Money,Dhaka,4212.14,21.06
+2025-01-27,7,Payment,Chattogram,50.0,0.0
+2025-04-23,8,Cash In,Dhaka,7062.33,0.0
+2025-04-20,17,Send Money,Dhaka,7495.76,37.48
+2025-04-15,18,Cash Out,Rajshahi,2532.11,46.84
+2025-02-08,22,Remittance,Rajshahi,15621.9,0.0
+2025-04-13,14,Salary,Rajshahi,12267.51,0.0
+2025-02-18,18,Payment,Rajshahi,1616.49,0.0
+2025-03-07,16,Send Money,Rajshahi,50.0,0.25
+2025-04-23,13,Send Money,Dhaka,3760.84,18.8
+2025-03-05,18,Remittance,Rajshahi,11805.5,0.0
+2025-01-14,8,Remittance,Rajshahi,2151.94,0.0
+2025-03-30,7,Cash In,Dhaka,739.16,0.0
+2025-04-27,9,Remittance,Chattogram,3947.72,0.0
+2025-02-01,11,Cash Out,Dhaka,4488.08,83.03
+2025-03-19,21,Send Money,Rangpur,4140.7,20.7
+2025-03-06,18,Cash In,Dhaka,3613.91,0.0
+2025-03-17,17,Payment,Dhaka,174.02,0.0
+2025-04-06,20,Payment,Barishal,586.99,0.0
+2025-01-01,11,Payment,Sylhet,1746.3,0.0
+2025-04-17,22,Cash Out,Rangpur,50.0,0.92
+2025-03-17,20,Cash Out,Rajshahi,7764.92,143.65
+2025-02-08,8,Payment,Chattogram,2084.87,0.0
+2025-04-09,11,Cash Out,Chattogram,50.0,0.92
+2025-03-16,9,Remittance,Khulna,23409.69,0.0
+2025-02-17,8,Cash In,Rajshahi,50.0,0.0
+2025-04-12,20,Salary,Mymensingh,20054.05,0.0
+2025-01-09,11,Cash Out,Dhaka,9987.94,184.78
+2025-02-21,19,Cash Out,Sylhet,50.0,0.92
+2025-01-16,14,Cash In,Dhaka,50.0,0.0
+2025-04-03,5,Cash Out,Dhaka,1056.36,19.54
+2025-01-10,12,Salary,Mymensingh,14663.15,0.0
+2025-01-19,18,Send Money,Dhaka,2230.07,11.15
+2025-02-19,10,Cash Out,Khulna,3334.52,61.69
+2025-04-17,9,Cash Out,Rangpur,3439.29,63.63
+2025-04-09,6,Salary,Rajshahi,18301.2,0.0
+2025-04-22,12,Cash In,Khulna,4135.99,0.0
+2025-01-08,21,Send Money,Sylhet,901.74,4.51
+2025-04-09,1,Payment,Mymensingh,1949.02,0.0
+2025-02-18,19,Payment,Mymensingh,1543.9,0.0
+2025-03-26,14,Send Money,Dhaka,601.3,3.01
+2025-02-18,9,Salary,Dhaka,32406.31,0.0
+2025-04-14,20,Payment,Dhaka,50.0,0.0
+2025-02-17,20,Cash In,Dhaka,7131.66,0.0
+2025-02-05,22,Send Money,Sylhet,1103.67,5.52
+2025-03-05,12,Payment,Rangpur,1992.46,0.0
+2025-01-03,11,Cash Out,Dhaka,7391.42,136.74
+2025-03-06,16,Payment,Dhaka,2608.81,0.0
+2025-03-09,19,Payment,Dhaka,3297.18,0.0
+2025-01-25,10,Cash Out,Rajshahi,2118.12,39.19
+2025-01-17,10,Cash Out,Barishal,16482.26,304.92
+2025-04-06,11,Cash Out,Chattogram,6972.81,129.0
+2025-04-12,2,Cash Out,Rajshahi,2256.2,41.74
+2025-03-04,19,Cash In,Rangpur,347.22,0.0
+2025-01-17,12,Cash Out,Rangpur,14527.17,268.75
+2025-02-12,12,Cash Out,Dhaka,11819.57,218.66
+2025-04-20,15,Send Money,Sylhet,2484.3,12.42
+2025-04-26,18,Send Money,Barishal,3919.87,19.6
+2025-01-21,17,Cash In,Rangpur,9121.11,0.0
+2025-03-26,10,Cash Out,Chattogram,5850.07,108.23
+2025-04-21,9,Cash In,Dhaka,3444.34,0.0
+2025-01-20,10,Payment,Chattogram,1544.41,0.0
+2025-03-24,13,Cash In,Chattogram,7580.01,0.0
+2025-04-27,18,Send Money,Chattogram,2574.45,12.87
+2025-01-13,0,Cash In,Barishal,820.01,0.0
+2025-03-11,15,Remittance,Rajshahi,20431.24,0.0
+2025-02-05,19,Payment,Rajshahi,50.0,0.0
+2025-02-10,14,Remittance,Rajshahi,9667.22,0.0
+2025-02-07,11,Remittance,Dhaka,23899.66,0.0
+2025-01-29,12,Cash Out,Dhaka,6416.69,118.71
+2025-01-20,13,Payment,Chattogram,1879.06,0.0
+2025-01-09,15,Send Money,Rangpur,2734.6,13.67
+2025-03-13,6,Send Money,Rajshahi,4437.7,22.19
+2025-01-30,18,Payment,Barishal,1529.87,0.0
+2025-03-17,14,Cash Out,Rajshahi,50.0,0.92
+2025-02-04,9,Cash In,Barishal,5646.05,0.0
+2025-02-23,20,Send Money,Mymensingh,50.0,0.25
+2025-02-11,11,Salary,Sylhet,8872.48,0.0
+2025-01-17,18,Cash In,Rangpur,10020.98,0.0
+2025-04-29,9,Cash In,Mymensingh,8240.61,0.0
+2025-03-18,13,Cash In,Sylhet,3319.84,0.0
+2025-03-13,8,Send Money,Barishal,2395.24,11.98
+2025-02-06,9,Send Money,Dhaka,2690.28,13.45
+2025-01-24,10,Send Money,Dhaka,4376.55,21.88
+2025-01-08,7,Cash Out,Mymensingh,2475.09,45.79
+2025-02-14,18,Send Money,Dhaka,909.56,4.55
+2025-04-05,12,Send Money,Dhaka,1374.21,6.87
+2025-02-21,10,Send Money,Dhaka,2784.38,13.92
+2025-01-11,14,Cash In,Rajshahi,5693.55,0.0
+2025-01-10,8,Cash Out,Dhaka,3940.81,72.9
+2025-03-25,12,Payment,Barishal,2518.56,0.0
+2025-02-26,14,Cash Out,Dhaka,1497.68,27.71
+2025-02-09,15,Remittance,Sylhet,14452.17,0.0
+2025-03-02,11,Salary,Rangpur,17180.49,0.0
+2025-01-03,17,Cash Out,Sylhet,1559.67,28.85
+2025-04-20,19,Payment,Chattogram,3091.14,0.0
+2025-02-20,21,Send Money,Rajshahi,1940.4,9.7
+2025-02-21,14,Send Money,Rangpur,675.7,3.38
+2025-01-12,21,Send Money,Sylhet,2602.06,13.01
+2025-03-24,20,Cash Out,Dhaka,1577.1,29.18
+2025-03-19,16,Cash Out,Dhaka,7788.1,144.08
+2025-03-23,7,Payment,Rangpur,2628.7,0.0
+2025-02-10,15,Cash Out,Rajshahi,9458.07,174.97
+2025-01-21,13,Cash Out,Dhaka,1359.09,25.14
+2025-03-30,17,Salary,Khulna,20532.61,0.0
+2025-03-10,9,Send Money,Rajshahi,5924.45,29.62
+2025-02-28,23,Send Money,Dhaka,2135.77,10.68
+2025-02-23,10,Send Money,Rangpur,4859.17,24.3
+2025-04-20,23,Cash In,Dhaka,9828.06,0.0
+2025-01-20,9,Payment,Dhaka,50.0,0.0
+2025-03-21,12,Remittance,Dhaka,23687.47,0.0
+2025-01-03,16,Cash In,Dhaka,7301.69,0.0
+2025-02-01,9,Send Money,Rangpur,4148.08,20.74
+2025-04-30,11,Cash In,Rajshahi,10369.61,0.0
+2025-01-20,16,Send Money,Dhaka,3382.33,16.91
+2025-01-11,17,Cash Out,Chattogram,5792.56,107.16
+2025-02-20,20,Payment,Dhaka,2340.68,0.0
+2025-04-17,14,Salary,Sylhet,19340.2,0.0
+2025-03-16,21,Send Money,Rangpur,3448.97,17.24
+2025-02-13,9,Cash Out,Dhaka,50.0,0.92
+2025-03-31,15,Send Money,Khulna,5718.97,28.59
+2025-01-10,17,Send Money,Dhaka,1558.65,7.79
+2025-04-30,6,Cash In,Dhaka,6609.4,0.0
+2025-04-26,18,Cash In,Sylhet,5862.16,0.0
+2025-01-11,18,Payment,Mymensingh,1718.18,0.0
+2025-03-21,14,Salary,Dhaka,22134.98,0.0
+2025-03-19,20,Cash In,Khulna,5051.15,0.0
+2025-02-18,16,Cash Out,Dhaka,50.0,0.92
+2025-03-04,10,Cash In,Dhaka,3050.85,0.0
+2025-04-11,18,Cash Out,Rajshahi,10121.13,187.24
+2025-03-19,13,Send Money,Dhaka,652.14,3.26
+2025-03-26,16,Payment,Rajshahi,294.16,0.0
+2025-01-15,22,Payment,Sylhet,4182.98,0.0
+2025-02-19,16,Payment,Dhaka,3068.98,0.0
+2025-04-04,18,Payment,Rajshahi,3504.46,0.0
+2025-03-28,18,Send Money,Dhaka,2507.99,12.54
+2025-01-31,8,Payment,Sylhet,1917.04,0.0
+2025-03-30,3,Cash In,Dhaka,7322.37,0.0
+2025-04-09,6,Payment,Rajshahi,2275.53,0.0
+2025-01-21,12,Cash In,Rajshahi,4541.28,0.0
+2025-04-26,21,Cash Out,Khulna,50.0,0.92
+2025-03-27,12,Salary,Dhaka,16922.05,0.0
+2025-03-17,20,Send Money,Rangpur,50.0,0.25
+2025-04-20,9,Cash In,Chattogram,9954.94,0.0
+2025-01-24,7,Cash Out,Barishal,3889.07,71.95
+2025-03-24,11,Cash In,Chattogram,4209.44,0.0
+2025-03-14,19,Cash Out,Chattogram,6532.85,120.86
+2025-04-06,21,Payment,Sylhet,1591.77,0.0
+2025-01-31,13,Salary,Chattogram,24579.45,0.0
+2025-04-29,11,Remittance,Sylhet,10441.38,0.0
+2025-04-17,18,Payment,Chattogram,50.0,0.0
+2025-04-06,11,Cash In,Sylhet,10491.14,0.0
+2025-02-20,9,Send Money,Sylhet,1186.51,5.93
+2025-02-26,17,Send Money,Mymensingh,1618.81,8.09
+2025-04-03,6,Payment,Chattogram,585.94,0.0
+2025-03-09,18,Cash In,Chattogram,2965.19,0.0
+2025-02-21,21,Payment,Mymensingh,1580.45,0.0
+2025-04-03,6,Cash Out,Khulna,8267.89,152.96
+2025-02-25,18,Send Money,Chattogram,548.53,2.74
+2025-03-17,2,Cash Out,Sylhet,6484.19,119.96
+2025-01-11,7,Cash Out,Dhaka,2752.89,50.93
+2025-01-09,9,Cash Out,Mymensingh,10002.43,185.04
+2025-01-26,23,Payment,Sylhet,50.0,0.0
+2025-01-08,5,Send Money,Rajshahi,2653.24,13.27
+2025-01-26,12,Cash In,Dhaka,7043.38,0.0
+2025-02-02,12,Send Money,Barishal,50.0,0.25
+2025-03-19,8,Send Money,Rangpur,2664.61,13.32
+2025-04-09,22,Cash Out,Barishal,5894.81,109.05
+2025-02-05,8,Cash In,Rangpur,2111.4,0.0
+2025-01-27,20,Send Money,Dhaka,2062.07,10.31
+2025-02-16,13,Send Money,Sylhet,4266.98,21.33
+2025-02-08,17,Cash In,Rangpur,5494.82,0.0
+2025-01-03,17,Cash Out,Chattogram,3714.13,68.71
+2025-04-09,16,Salary,Dhaka,19904.01,0.0
+2025-03-30,18,Send Money,Khulna,3266.66,16.33
+2025-01-16,19,Cash In,Dhaka,8803.77,0.0
+2025-04-16,7,Send Money,Dhaka,3898.39,19.49
+2025-02-03,6,Send Money,Mymensingh,3779.38,18.9
+2025-01-26,12,Remittance,Rangpur,25768.3,0.0
+2025-01-31,6,Cash In,Rajshahi,50.0,0.0
+2025-01-07,14,Cash In,Sylhet,50.0,0.0
+2025-01-06,21,Remittance,Rajshahi,50.0,0.0
+2025-02-14,13,Cash In,Chattogram,7364.53,0.0
+2025-03-31,7,Cash In,Dhaka,50.0,0.0
+2025-04-23,7,Payment,Dhaka,1468.94,0.0
+2025-02-08,13,Send Money,Khulna,3803.36,19.02
+2025-01-08,17,Salary,Rajshahi,12634.85,0.0
+2025-02-18,18,Cash Out,Dhaka,2722.48,50.37
+2025-02-08,17,Cash Out,Dhaka,4246.54,78.56
+2025-02-09,12,Cash Out,Chattogram,8051.16,148.95
+2025-01-04,19,Send Money,Dhaka,50.0,0.25
+2025-01-08,13,Send Money,Mymensingh,3001.25,15.01
+2025-01-27,16,Send Money,Dhaka,3686.63,18.43
+2025-04-12,0,Payment,Chattogram,1685.72,0.0
+2025-01-06,13,Remittance,Khulna,15686.06,0.0
+2025-01-17,6,Cash In,Dhaka,8659.28,0.0
+2025-04-06,8,Salary,Khulna,22393.27,0.0
+2025-02-04,9,Cash In,Khulna,4554.87,0.0
+2025-01-05,14,Payment,Dhaka,1104.94,0.0
+2025-03-28,6,Remittance,Mymensingh,19144.36,0.0
+2025-01-23,17,Payment,Khulna,1159.65,0.0
+2025-02-11,11,Send Money,Dhaka,3596.82,17.98
+2025-01-11,8,Send Money,Mymensingh,2593.73,12.97
+2025-03-02,21,Remittance,Dhaka,22496.84,0.0
+2025-04-02,16,Send Money,Sylhet,978.95,4.89
+2025-02-09,10,Salary,Khulna,21486.92,0.0
+2025-03-26,7,Cash Out,Dhaka,6555.08,121.27
+2025-03-09,12,Send Money,Chattogram,3157.64,15.79
+2025-02-13,18,Payment,Khulna,2871.46,0.0
+2025-02-08,13,Cash Out,Chattogram,6724.11,124.4
+2025-03-14,9,Send Money,Dhaka,4045.48,20.23
+2025-02-24,7,Send Money,Chattogram,5954.92,29.77
+2025-03-28,8,Cash Out,Chattogram,8436.26,156.07
+2025-01-02,18,Cash Out,Rajshahi,1180.96,21.85
+2025-02-16,7,Remittance,Dhaka,4502.16,0.0
+2025-01-02,22,Send Money,Dhaka,3618.71,18.09
+2025-02-08,17,Cash Out,Rangpur,3779.04,69.91
+2025-03-02,11,Payment,Dhaka,1855.41,0.0
+2025-03-19,8,Cash In,Rajshahi,4056.03,0.0
+2025-04-09,12,Send Money,Khulna,4768.56,23.84
+2025-01-26,21,Send Money,Mymensingh,4573.32,22.87
+2025-04-30,7,Send Money,Dhaka,371.46,1.86
+2025-02-22,9,Send Money,Rangpur,2900.02,14.5
+2025-04-07,6,Send Money,Dhaka,1863.35,9.32
+2025-01-13,17,Send Money,Dhaka,50.0,0.25
+2025-03-04,21,Send Money,Rajshahi,3574.73,17.87
+2025-04-28,14,Send Money,Dhaka,2146.64,10.73
+2025-03-19,9,Cash Out,Rajshahi,6899.49,127.64
+2025-02-15,21,Payment,Rajshahi,4482.84,0.0
+2025-03-22,14,Cash Out,Dhaka,10270.4,190.0
+2025-04-11,21,Send Money,Barishal,4397.05,21.99
+2025-03-29,11,Send Money,Chattogram,1669.28,8.35
+2025-03-02,7,Send Money,Mymensingh,272.08,1.36
+2025-04-30,5,Send Money,Dhaka,4656.34,23.28
+2025-04-19,9,Cash Out,Dhaka,4054.69,75.01
+2025-02-11,12,Cash In,Rajshahi,4750.66,0.0
+2025-03-01,18,Remittance,Dhaka,11876.73,0.0
+2025-02-23,12,Send Money,Chattogram,2584.19,12.92
+2025-01-14,9,Send Money,Rangpur,6744.14,33.72
+2025-04-04,20,Send Money,Chattogram,1835.16,9.18
+2025-01-19,14,Cash Out,Dhaka,4131.83,76.44
+2025-01-26,15,Cash Out,Dhaka,5975.85,110.55
+2025-03-24,18,Payment,Khulna,1843.66,0.0
+2025-01-12,16,Send Money,Barishal,236.26,1.18
+2025-03-29,9,Send Money,Sylhet,50.0,0.25
+2025-04-18,21,Payment,Chattogram,798.0,0.0
+2025-03-18,7,Payment,Dhaka,1240.7,0.0
+2025-01-02,7,Cash Out,Dhaka,2187.4,40.47
+2025-03-21,15,Cash In,Dhaka,1369.42,0.0
+2025-04-18,14,Send Money,Dhaka,689.66,3.45
+2025-04-22,8,Send Money,Rangpur,1668.6,8.34
+2025-04-20,17,Payment,Chattogram,1339.85,0.0
+2025-01-04,6,Payment,Dhaka,50.0,0.0
+2025-01-20,12,Cash In,Rajshahi,2786.77,0.0
+2025-03-13,21,Cash In,Chattogram,5677.6,0.0
+2025-04-01,20,Payment,Dhaka,1326.55,0.0
+2025-03-09,15,Remittance,Mymensingh,4828.85,0.0
+2025-02-04,18,Payment,Mymensingh,1044.62,0.0
+2025-01-24,16,Send Money,Dhaka,2322.85,11.61
+2025-02-02,8,Payment,Rangpur,2393.56,0.0
+2025-04-10,19,Cash Out,Chattogram,50.0,0.92
+2025-04-29,15,Cash Out,Rajshahi,7702.36,142.49
+2025-04-09,14,Send Money,Rajshahi,1519.82,7.6
+2025-04-17,21,Send Money,Sylhet,2716.76,13.58
+2025-03-11,14,Cash In,Chattogram,6695.06,0.0
+2025-04-02,10,Remittance,Dhaka,8208.07,0.0
+2025-04-16,11,Remittance,Barishal,8652.04,0.0
+2025-02-22,14,Send Money,Chattogram,2141.6,10.71
+2025-03-28,19,Cash Out,Chattogram,7838.33,145.01
+2025-04-29,19,Send Money,Sylhet,1364.7,6.82
+2025-01-02,11,Payment,Rajshahi,50.0,0.0
+2025-03-10,12,Salary,Mymensingh,16629.96,0.0
+2025-01-07,4,Remittance,Chattogram,16943.14,0.0
+2025-04-28,15,Cash In,Rajshahi,8193.63,0.0
+2025-02-23,18,Send Money,Dhaka,1423.53,7.12
+2025-03-28,8,Remittance,Dhaka,11969.88,0.0
+2025-04-21,15,Send Money,Dhaka,2008.69,10.04
+2025-01-06,7,Payment,Dhaka,1291.31,0.0
+2025-03-11,19,Send Money,Chattogram,626.34,3.13
+2025-04-06,17,Payment,Dhaka,922.01,0.0
+2025-04-16,20,Payment,Mymensingh,1707.18,0.0
+2025-04-11,9,Cash Out,Chattogram,5428.68,100.43
+2025-04-27,8,Cash Out,Chattogram,5120.76,94.73
+2025-04-16,14,Remittance,Rangpur,7177.26,0.0
+2025-03-01,5,Cash Out,Barishal,2953.55,54.64
+2025-03-16,18,Cash Out,Barishal,2333.0,43.16
+2025-01-28,8,Send Money,Rangpur,4206.07,21.03
+2025-01-05,7,Send Money,Sylhet,4927.97,24.64
+2025-01-11,7,Salary,Dhaka,22783.16,0.0
+2025-04-15,17,Cash In,Mymensingh,9542.61,0.0
+2025-04-29,4,Cash Out,Dhaka,3926.48,72.64
+2025-02-20,11,Cash In,Rangpur,3542.94,0.0
+2025-01-26,8,Cash In,Chattogram,334.28,0.0
+2025-01-24,18,Send Money,Dhaka,2737.86,13.69
+2025-04-27,5,Send Money,Chattogram,1511.59,7.56
+2025-01-26,8,Payment,Chattogram,1561.87,0.0
+2025-02-11,18,Cash Out,Rangpur,6889.45,127.45
+2025-01-25,13,Cash In,Barishal,3703.46,0.0
+2025-03-28,7,Cash Out,Sylhet,810.1,14.99
+2025-04-08,23,Remittance,Dhaka,13920.98,0.0
+2025-04-08,11,Remittance,Chattogram,13731.26,0.0
+2025-01-09,11,Send Money,Dhaka,2383.09,11.92
+2025-04-30,17,Cash In,Sylhet,6627.28,0.0
+2025-04-21,13,Cash Out,Dhaka,4254.36,78.71
+2025-03-12,18,Send Money,Chattogram,1858.86,9.29
+2025-01-03,13,Send Money,Dhaka,5434.09,27.17
+2025-03-26,9,Cash Out,Rangpur,9120.78,168.73
+2025-03-28,13,Payment,Rangpur,1352.95,0.0
+2025-01-08,19,Send Money,Dhaka,675.43,3.38
+2025-01-28,9,Salary,Rangpur,18166.77,0.0
+2025-01-22,15,Send Money,Dhaka,3028.43,15.14
+2025-03-03,14,Salary,Sylhet,25848.68,0.0
+2025-02-05,16,Send Money,Dhaka,6647.25,33.24
+2025-01-22,10,Send Money,Chattogram,1919.09,9.6
+2025-01-27,8,Send Money,Rajshahi,2633.29,13.17
+2025-04-18,16,Cash Out,Chattogram,3784.4,70.01
+2025-04-22,19,Cash Out,Dhaka,5434.95,100.55
+2025-01-19,12,Cash Out,Rajshahi,3696.42,68.38
